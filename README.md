@@ -67,6 +67,7 @@ The devices below are fully feature supported by OpenRazer, which means all avai
 | Razer Blade 15 Advanced (2020)                |  1532:0253  |
 | Razer Blade 15 (Early 2020) Base              |  1532:0255  |
 | Razer Cynosa V2                               |  1532:025E  |
+| Razer Blackwidow V3 Tenkeyless                |  1532:0A24  |
 
 ### Mice
 | Device                                        | USB VID:PID |
